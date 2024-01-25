@@ -19,5 +19,5 @@ struct CircleImage: View {
 }
 
 #Preview {
-    CircleImage(image: landmarks.first!.image)
+    CircleImage(image: ModelData().landmarks.first!.image)
 }
