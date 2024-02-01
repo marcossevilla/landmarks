@@ -33,3 +33,11 @@ struct NotificationView: View {
 #Preview {
     NotificationView()
 }
+
+#Preview {
+    NotificationView(
+        title: "Turtle Rock",
+        message: "You are within 5 miles of Turtle Rock.",
+        landmark: ModelData().landmarks.first!
+    )
+}

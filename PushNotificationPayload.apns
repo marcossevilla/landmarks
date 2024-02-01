@@ -8,5 +8,5 @@
         "thread-id": "5280"
     },
     "landmarkIndex": 1,
-    "Simulator Target Bundle": "dev.marcossevilla.landmarks.watchkitapp"
+    "Simulator Target Bundle": ".watchkitapp"
 }
