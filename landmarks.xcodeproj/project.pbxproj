@@ -89,6 +89,7 @@
 		94E4CBAA2B6D33B500C931A2 /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 949D88152B63FC4F00006867 /* hikeData.json */; };
 		94E4CBAB2B6D33B500C931A2 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AAB8762B612BA3008BB3B3 /* LandmarksApp.swift */; };
 		94E4CBAD2B6D368400C931A2 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E4CBAC2B6D368400C931A2 /* LandmarkDetail.swift */; };
+		94F17AC92B8611BC00D54DC0 /* LandmarkSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F17AC82B8611BC00D54DC0 /* LandmarkSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -205,6 +206,7 @@
 		94E4CB922B6BE13B00C931A2 /* MacLandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacLandmarksUITests.swift; sourceTree = "<group>"; };
 		94E4CB942B6BE13B00C931A2 /* MacLandmarksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacLandmarksUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		94E4CBAC2B6D368400C931A2 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
+		94F17AC82B8611BC00D54DC0 /* LandmarkSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -495,6 +497,7 @@
 				94E4CB7A2B6BE13B00C931A2 /* Assets.xcassets */,
 				94E4CB7F2B6BE13B00C931A2 /* MacLandmarks.entitlements */,
 				94E4CB7C2B6BE13B00C931A2 /* Preview Content */,
+				94F17AC82B8611BC00D54DC0 /* LandmarkSettings.swift */,
 			);
 			path = MacLandmarks;
 			sourceTree = "<group>";
@@ -938,6 +941,7 @@
 			files = (
 				94E4CBA02B6D33B500C931A2 /* Hike.swift in Sources */,
 				94E4CBA62B6D33B500C931A2 /* CircleImage.swift in Sources */,
+				94F17AC92B8611BC00D54DC0 /* LandmarkSettings.swift in Sources */,
 				94E4CBA42B6D33B500C931A2 /* Profile.swift in Sources */,
 				94E4CBA72B6D33B500C931A2 /* FavoriteButton.swift in Sources */,
 				946B233B2B6D4D9F008B2D83 /* LandmarkCommands.swift in Sources */,
